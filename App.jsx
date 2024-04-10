@@ -1,4 +1,4 @@
-import Navbar from "./src/Components/Navbar"
+import Navbar from "./Navbar"
 import Newsboard from "./Newsboard"
 import {useState} from "react";
 
